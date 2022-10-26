@@ -1,0 +1,8 @@
+{
+  "name": "mahami",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6272e0dc"
+}
